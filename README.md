@@ -7,6 +7,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 David Yu; [DavidYu00](https://github.com/DavidYu00).
+Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
 
 ## Stakeholders
 
@@ -18,7 +19,12 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As someone who is new to origami, I would like to learn easy origamis step by step. 
+As a busy computer science student, I want to spend ten minutes doing origami everyday.
+As an origami product producer, I am looking for platforms where I can promote new products. 
+Being a engaged man, I would like to create a massive origami work to be shown in my wedding. 
+As a astrophile, I am trying to create an origami work of the Jupiter but find no existed tutorials. I need a place where I can post a message asking for help.
+As a origami lover, I want to buy customized origami materials (other than those that could be found on Amazon).
 
 ## Activity Diagrams
 
