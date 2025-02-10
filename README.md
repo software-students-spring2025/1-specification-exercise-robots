@@ -10,8 +10,20 @@ David Yu; [DavidYu00](https://github.com/DavidYu00).
 Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
 
 ## Stakeholders
+### Nicholas Wong, Data Science Student
+"I've always been interested in origami, but I don't know where to start. The paper is different and there are some intricate techniques. I want start with some easier ones before diving into something with hundreds of steps." 
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Goals/Needs
+* Enable users to learn how to make any given origami project
+* Assign any given origami project to a specific difficulty
+* Offer detailed information about necessary resources for each origami project
+* Sell origami goods to facilitate making origami
+
+### Problems/Frustrations
+* Uncertainy towards quantifiable difficulty of origami
+* Difficulty in choosing what to create
+* Limited access to origami paper
+* Struggles with properly learning origami techniques
 
 ## Product Vision Statement
 
