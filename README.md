@@ -15,11 +15,11 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Built for those looking to get into a new hobby or to dive deeper into the art of origami, REPLACEAPPNAME is a mobile app that streamlines the origami learning process and handles all your origami-related needs.
 
 ## User Requirements
 
-As someone who is new to origami, I would like to learn easy origamis step by step. 
+As someone who is new to origami, I would like to learn easy origamis step by step.
 As a busy computer science student, I want to spend ten minutes doing origami everyday.
 As an origami product producer, I am looking for platforms where I can promote new products. 
 Being a engaged man, I would like to create a massive origami work to be shown in my wedding. 
