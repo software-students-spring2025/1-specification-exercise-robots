@@ -9,6 +9,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 David Yu; [DavidYu00](https://github.com/DavidYu00).
 Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
 Buki Seid; [dibukseid](https://github.com/dibukseid).
+Keith Dusling; [kdusling56] (https://github.com/kdusling56)
 
 ## Stakeholders
 ### Nicholas Wong, Data Science Student
@@ -35,7 +36,7 @@ Buki Seid; [dibukseid](https://github.com/dibukseid).
 
 ## Product Vision Statement
 
-Built for those looking to get into a new hobby or to dive deeper into the art of origami, REPLACEAPPNAME is a mobile app that streamlines the origami learning process and handles all your origami-related needs.
+Built for those looking to get into a new hobby or to dive deeper into the art of origami, ORGMI is a mobile app that streamlines the origami learning process and handles all your origami-related needs.
 
 ## User Requirements
 
