@@ -61,4 +61,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/AtpUbD7fUHTcC7cdu1Awbz/Team-Robots?node-id=0-1&t=dFKbCVKI0q5goAOC-1
