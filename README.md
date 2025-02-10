@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 David Yu; [DavidYu00](https://github.com/DavidYu00).
 Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
+Buki Seid; [dibukseid](https://github.com/dibukseid).
 
 ## Stakeholders
 ### Nicholas Wong, Data Science Student
@@ -18,12 +19,19 @@ Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
 * Assign any given origami to a specific difficulty
 * Offer detailed information about necessary resources for each origami
 * Sell origami goods to facilitate making origami
+* Integrate interactive step-by-step tutorials with animations, images or videos. 
+* Provide a community space where users can post, share, and receive feedback or assistance. 
+* Offer project recommendations based on user preferences, skill level, or past projects 
+
 
 ### Problems/Frustrations
 * Uncertainy towards quantifiable difficulty of origami
 * Difficulty in choosing what to create
 * Limited access to origami paper
 * Struggles with properly learning origami techniques
+* Lack of access to personalized guidance or tutorials for complex origami designs. 
+* Inconsistent opportunity to get feedback from peers in discussion posts (heavily based on community effort unless there are paid experts).
+
 
 ## Product Vision Statement
 
@@ -41,6 +49,10 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 * As an astrophile, I want to make an origami of Jupiter but find no existing tutorials. I need a place where I can ask for help.
 * As an origami lover, I want to buy customized origami materials (beyond what's found on Amazon).
 * As a casual origami enjoyer, I want to learn more possible things to make.
+* As a parent, I want to find kid-friendly origami projects to do with my kid. 
+* As a competitive origami enthusiast, I want updates on upcoming contests or challenges.
+* As a student preparing for my origami presentation, I want an app where I can find origami designs related to my topic (ex. animals, flowers, etc). 
+* As someone improving my skills, I want a progress tracker that shows my skill level overtime based on my past projects. 
 
 ## Activity Diagrams
 
