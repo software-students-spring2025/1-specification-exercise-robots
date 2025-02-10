@@ -31,12 +31,12 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 
 ## User Requirements
 
-As someone who is new to origami, I would like to learn easy origamis step by step.
-As a busy computer science student, I want to spend ten minutes doing origami everyday.
-As an origami product producer, I am looking for platforms where I can promote new products. 
-Being a engaged man, I would like to create a massive origami work to be shown in my wedding. 
-As a astrophile, I am trying to create an origami work of the Jupiter but find no existed tutorials. I need a place where I can post a message asking for help.
-As a origami lover, I want to buy customized origami materials (other than those that could be found on Amazon).
+* As someone who is new to origami, I would like to learn easy origamis step by step.
+* As a busy computer science student, I want to spend ten minutes doing origami everyday.
+* As an origami product producer, I am looking for platforms where I can promote new products. 
+* Being a engaged man, I would like to create a massive origami work to be shown in my wedding. 
+* As a astrophile, I am trying to create an origami work of the Jupiter but find no existed tutorials. I need a place where I can post a message asking for help.
+* As a origami lover, I want to buy customized origami materials (other than those that could be found on Amazon).
 
 ## Activity Diagrams
 
