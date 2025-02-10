@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 * David Yu; [DavidYu00](https://github.com/DavidYu00)
 * Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng)
 * Buki Seid; [dibukseid](https://github.com/dibukseid)
-* Keith Dusling; [kdusling56] (https://github.com/kdusling56)
+* Keith Dusling; [kdusling56](https://github.com/kdusling56)
 
 ## Stakeholders
 ### Nicholas Wong, Data Science Student
