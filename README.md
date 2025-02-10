@@ -14,9 +14,9 @@ Zhiheng Pan; [pzhiheng](https://github.com/pzhiheng).
 "I've always been interested in origami, but I don't know where to start. The paper is different and there are some intricate techniques. I want start with some easier ones before diving into something with hundreds of steps." 
 
 ### Goals/Needs
-* Enable users to learn how to make any given origami project
-* Assign any given origami project to a specific difficulty
-* Offer detailed information about necessary resources for each origami project
+* Enable users to learn how to make any given origami
+* Assign any given origami to a specific difficulty
+* Offer detailed information about necessary resources for each origami
 * Sell origami goods to facilitate making origami
 
 ### Problems/Frustrations
@@ -32,11 +32,15 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 ## User Requirements
 
 * As someone who is new to origami, I would like to learn easy origamis step by step.
+* As a beginner to origami, I want to buy proper origami materials easily.
+* As someone learning more about origami, I want to know how hard the project I am making is.
 * As a busy computer science student, I want to spend ten minutes doing origami everyday.
-* As an origami product producer, I am looking for platforms where I can promote new products. 
-* Being a engaged man, I would like to create a massive origami work to be shown in my wedding. 
-* As a astrophile, I am trying to create an origami work of the Jupiter but find no existed tutorials. I need a place where I can post a message asking for help.
-* As a origami lover, I want to buy customized origami materials (other than those that could be found on Amazon).
+* As an origami product producer, I am looking for platforms where I can promote my products. 
+* As an origami expert, I want to share my knowledge and help others get into origami.
+* As an engaged man, I would like to create a massive origami work to be shown in my wedding. 
+* As an astrophile, I want to make an origami of Jupiter but find no existing tutorials. I need a place where I can ask for help.
+* As an origami lover, I want to buy customized origami materials (beyond what's found on Amazon).
+* As a casual origami enjoyer, I want to learn more possible things to make.
 
 ## Activity Diagrams
 
