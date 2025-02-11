@@ -51,7 +51,6 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 * As a parent, I want to find kid-friendly origami projects to do with my kid. 
 * As a competitive origami enthusiast, I want updates on upcoming contests or challenges.
 * As a student preparing for my origami presentation, I want an app where I can find origami designs related to my topic (ex. animals, flowers, etc). 
-* As someone improving my skills, I want a progress tracker that shows my skill level overtime based on my past projects. 
 
 ## Activity Diagrams
 #### As someone who is new to origami, I would like to learn easy origamis step by step.
