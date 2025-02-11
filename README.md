@@ -54,8 +54,10 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 * As someone improving my skills, I want a progress tracker that shows my skill level overtime based on my past projects. 
 
 ## Activity Diagrams
-
+#### As someone who is new to origami, I would like to learn easy origamis step by step.
 ![User story 1](images/UML_userstory1.png)
+#### As a beginner to origami, I want to buy proper origami materials easily.
+![User story 2](images/UML_userstory2.png)
 
 ## Clickable Prototype
 
