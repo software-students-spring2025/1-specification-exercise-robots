@@ -59,4 +59,4 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 
 ## Clickable Prototype
 
-https://www.figma.com/design/AtpUbD7fUHTcC7cdu1Awbz/Team-Robots?node-id=0-1&t=dFKbCVKI0q5goAOC-1
+https://www.figma.com/proto/AtpUbD7fUHTcC7cdu1Awbz/Team-Robots?node-id=28-4&p=f&t=yeNxAWX9POKUoN4m-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=28%3A4
