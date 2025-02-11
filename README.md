@@ -55,7 +55,7 @@ Built for those looking to get into a new hobby or to dive deeper into the art o
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![User story 1](images/UML_userstory1.png)
 
 ## Clickable Prototype
 
